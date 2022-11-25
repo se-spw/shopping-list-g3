@@ -5,3 +5,5 @@ brot
 kaese
 wurst
 bier
+wuerstel
+salat
