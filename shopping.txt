@@ -4,3 +4,6 @@ brot
 kaese
 wurst
 bier
+tee
+speck
+punsch
