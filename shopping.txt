@@ -4,3 +4,6 @@ brot
 kaese
 wurst
 bier
+leberkas
+semmeln
+salz
