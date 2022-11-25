@@ -5,3 +5,6 @@ brot
 kaese
 wurst
 bier
+lewakas
+semmeln
+pfeffer + salz
