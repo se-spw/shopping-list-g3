@@ -2,3 +2,4 @@ gemuese
 obst
 brot
 kaese
+wurst
